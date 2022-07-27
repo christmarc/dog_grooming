@@ -1,0 +1,18 @@
+main{
+    width: 80%;
+    margin: 0 auto;
+    
+
+}
+footer{
+    text-align: center;
+}
+
+section{
+    width: 500px;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+}
